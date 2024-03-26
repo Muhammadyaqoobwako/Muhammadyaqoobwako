@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning in university in 3rd semester DSA 
 - 💞️ I’m looking to collaborate on remote job i know c++,html css and beginner at python.
 - 📫 How resaeach me sahilkhanwako22@gmail.com
-- 😄 Pronouns: yaqoob 
-- ⚡ Fun fact: Be good so get good.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: nothing.
 
 <!---
 Muhammadyaqoobwako/Muhammadyaqoobwako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
